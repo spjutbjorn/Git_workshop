@@ -1,2 +1,11 @@
 # Git_workshop
-starting
+
+## Git software
+https://git-scm.com/downloads
+
+## GUI
+https://gitextensions.github.io/
+
+## Command interface 
+http://cmder.net/
+
