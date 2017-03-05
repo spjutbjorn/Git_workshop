@@ -9,3 +9,9 @@ https://gitextensions.github.io/
 ## Command interface 
 http://cmder.net/
 
+## other GUI links
+### Mac Gui
+https://www.sourcetreeapp.com/
+
+### Linux flawor
+https://wiki.gnome.org/Apps/giggle/
