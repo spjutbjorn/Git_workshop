@@ -35,3 +35,5 @@ Magnus Gärdin
 ### Linux flawor test, testar igen från J, R och F
 https://wiki.gnome.org/Apps/giggle/
 
+
+Johan, Ferhat och Robert lämnar sitt mark
