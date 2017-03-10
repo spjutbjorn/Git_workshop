@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 ﻿Jonas Wilén är bäst
-.
+Nej Magnus är den bästa
 .
 .
 Annars kan döden inträffa....
