@@ -13,6 +13,7 @@ http://cmder.net/
 ### Mac Gui
 https://www.sourcetreeapp.com/
 
+<<<<<<< HEAD
 ### Linux flawor
 <<<<<<< HEAD
 https://wiki.gnome.org/Apps/giggle/ test
@@ -30,3 +31,7 @@ Lina Flitig
 =======
 Magnus Gärdin
 >>>>>>> 5c3ae4916e302968cfcc6606c38945e9ff75a6f9
+=======
+### Linux flawor test, testar igen från J, R och F
+https://wiki.gnome.org/Apps/giggle/
+
