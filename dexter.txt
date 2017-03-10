@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+﻿Jonas Wilén är bäst
+.
+.
+.
+Annars kan döden inträffa....
+=======
 Jonas Wilén tror att han är bäst men is kinda meh.
 Vi gillar Dexter!
+>>>>>>> 5027290e6b068d40f4bff264a0c279c908fa1eca
