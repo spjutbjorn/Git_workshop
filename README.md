@@ -13,5 +13,5 @@ http://cmder.net/
 ### Mac Gui
 https://www.sourcetreeapp.com/
 
-### Linux flawor test
+### Linux flawor test, testar igen från J, R och F
 https://wiki.gnome.org/Apps/giggle/
